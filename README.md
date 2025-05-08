@@ -50,12 +50,12 @@ python heart-disease-fairness-ai.py
 
 ---
 
-## 📘 Citation
+##  Citation
 
 > Maharshi Patel. *Improving Heart Disease Prediction with Causal AI, Explainable AI, and Fairness Checks*. MTSU, 2025.
 
 ---
 
-## 📄 License
+##  License
 
 This project is released for academic and non-commercial use only.
